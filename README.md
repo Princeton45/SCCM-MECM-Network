@@ -7,4 +7,4 @@ With the completion of this project, I now carry System Administrator abilities 
 
 I hope this project can be of help to someone who wants to learn more about SCCM/MECM and build their own virtualized enviornment. 
 
-Wiki -->> 
+[Wiki -->>] (https://github.com/Princeton45/SCCM-MECM-Network/wiki/Getting-Started) 
