@@ -1,4 +1,4 @@
-# SCCM-MECM-Network
+# SCCM-MECM-SMS Network
 How I created a virtualized SCCM/MECM Network.
 
 This projects main purpose was to give me a better understanding of how companies use SCCM/MECM to administer different devices and computers on their network.
